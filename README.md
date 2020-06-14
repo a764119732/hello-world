@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+
+Planet Here, I Like Code. Js and Caffeescript
